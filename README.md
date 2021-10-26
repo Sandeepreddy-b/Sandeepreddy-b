@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sandeep Reddy Butukuri
+- 👋 Hi, I’m Sandeep Reddy Butukuri
 - 🌱 I’m currently learning Data Science
 - 📫 You can reach me on my linkedin: linkedin.com/in/sandeep-reddy-99b158121
 
