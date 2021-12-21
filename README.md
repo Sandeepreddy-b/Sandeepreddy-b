@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Sandeep Reddy Butukuri
-- 🌱 I’m currently learning Data Science
-- 📫 You can contact me on linkedin: https://www.linkedin.com/in/sandeep-reddy-butukuri/ 
-- or 
-- by mail: bsreddy1211@gmail.com
+- 🌱 I’m actively looking for Data Science Jobs within Canada
+- Linkedin: https://www.linkedin.com/in/sandeep-reddy-butukuri/  
+- E-mail: bsreddy1211@gmail.com
 
 <!---
 Sandeepreddy-b/Sandeepreddy-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
