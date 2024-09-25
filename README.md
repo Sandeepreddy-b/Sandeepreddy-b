@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sandeep Reddy Butukuri
-- 🌱 I’m actively looking for Data Science Jobs within Canada
 - Linkedin: https://www.linkedin.com/in/sandeep-reddy-butukuri/  
 - E-mail: bsreddy1211@gmail.com
 
